@@ -1,0 +1,4 @@
+com\boyd\flightAppApi\models\flight.class
+com\boyd\flightAppApi\FlightAppApiApplication.class
+com\boyd\flightAppApi\repositories\flightrepository.class
+com\boyd\flightAppApi\controllers\flightcontroller.class
