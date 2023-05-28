@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-FlightAppApiApplication<flightAppApi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.boyd.flightAppApi.FlightAppApiApplication",
+            "projectName": "flightAppApi",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
